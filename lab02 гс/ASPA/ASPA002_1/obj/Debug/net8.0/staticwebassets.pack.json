@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\уник\\4 сем\\ТПвИ\\lab02\\ASPA\\ASPA002_1\\wwwroot\\images.jpg",
+      "PackagePath": "staticwebassets\\images.jpg"
+    },
+    {
+      "Id": "D:\\уник\\4 сем\\ТПвИ\\lab02\\ASPA\\ASPA002_1\\wwwroot\\index.css",
+      "PackagePath": "staticwebassets\\index.css"
+    },
+    {
+      "Id": "D:\\уник\\4 сем\\ТПвИ\\lab02\\ASPA\\ASPA002_1\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\уник\\4 сем\\ТПвИ\\lab02\\ASPA\\ASPA002_1\\wwwroot\\js.js",
+      "PackagePath": "staticwebassets\\js.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ASPA002_1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ASPA002_1.props",
+      "PackagePath": "build\\ASPA002_1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ASPA002_1.props",
+      "PackagePath": "buildMultiTargeting\\ASPA002_1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ASPA002_1.props",
+      "PackagePath": "buildTransitive\\ASPA002_1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
